@@ -8,7 +8,7 @@
 #### [ day2 ]<br>
 - Class 왜 쓰고 어떻게 쓰는지? <br>
 - IntelliJ로 Git Push <br>
-- List에 1개 String 추가하기 <br>
+- List에 String 1개 추가하기 <br>
 - Interface 구현체 구현 <br>
 - Interface 구현체 Di <br>
 
