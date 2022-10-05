@@ -1,6 +1,6 @@
 ## LikeLion Back-End School
 ### 3주차
-#### day1<br>
+#### [ day1 ]<br>
 - Git Repository Create and Push <br>
 - 화폐 매수 구하기 <br>
 - CodeUp 1001~1010 <br>
@@ -13,5 +13,6 @@
 - Interface 구현체 Di <br>
 
 
+<br><br>
 마크다운 사용법
 https://inchijeong.github.io/markdown/2019/03/20/markdown.html
