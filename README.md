@@ -5,7 +5,7 @@
 - 화폐 매수 구하기 <br>
 - CodeUp 1001~1010 <br>
 
-#### [day2]<br>
+#### [ day2 ]<br>
 - Class 왜 쓰고 어떻게 쓰는지? <br>
 - IntelliJ로 Git Push <br>
 - List에 1개 String 추가하기 <br>
