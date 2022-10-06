@@ -3,7 +3,6 @@ package week3.day1;
 public class ArrayTest {
     public static void main(String[] args) {
         System.out.println("hello"); // Run : control + option + R
-
         // 10칸의 int array를 만들고
         // 1부터 10까지 채워서 출력
 
