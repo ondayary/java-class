@@ -1,0 +1,26 @@
+< intelli J 단축키들 >
+
+alt + 1 : 키보드로 이동
+alt + 인서트
+alt + j :공백 -> ,
+
+project explorer → alt + 1 (window)
+                   cmd + 1 (mac)
+
+project explorer 에서 편집기로 가기 —> Esc
+
+정렬 -> ctrl + alt + L
+	   cmd + opt + L (mac)
+
+클래스 만들기 -> alt + insert
+		     cmd + n (mac)
+
+art + j 한 후
+데이터의 행 맨 앞으로 이동 ->  home
+데이터의 행 맨 뒤로 이동 -> end
+
+맥북 단축키
+Cmd + Alt + L : 코드 정렬
+Cmd + Shift + 8 : 모드 바꾸기
+Shift + 위아래 방향키 : 멀티 마우스 커서
+Ctrl + G : 같은 단어 찾기 (shift 방향키로 선택이후)
