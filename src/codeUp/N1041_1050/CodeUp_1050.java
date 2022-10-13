@@ -11,6 +11,7 @@ public class CodeUp_1050 {
         int a = sc.nextInt();
         int b = sc.nextInt();
 
+        // ==
         if(a == b) {
             System.out.println(1);
         } else {
