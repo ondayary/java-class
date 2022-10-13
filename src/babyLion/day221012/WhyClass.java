@@ -1,4 +1,4 @@
-package babyLion._221012;
+package babyLion.day221012;
 /*
 1. 클래스는 무엇인가?
     Class = 멤버변수(id, address, district ..)에 값을 저장하는 기능 + 동작을 내재화 시키는 기능
@@ -16,6 +16,15 @@ package babyLion._221012;
     - 동작을(Method) class안에 내재화 시킬 수 있다. (가장 큰 장점) -- 안에서만 일어나는 연산을 사용할 수 있다.
 
 3. Method는 무엇인가?
+
+4. 다형성이란?
+    하나의 코드가 여러 자료형으로 구현되어 실행되는 것을 말한다.
+    같은 코드에서 여러 실행 결과가 나오는 것이다.
+
+5. 제네릭이란?
+    여러 참조 자료형을 사용할 수 있도록 유연하게 여지를 둘 수 있게 해주는 것이 제네릭이다.
+    List<T>
+    LineParser<T>
 */
 
 public class WhyClass {
@@ -35,7 +44,7 @@ public class WhyClass {
 //        hospital.setId("");
 
         // set을 쓰지 않고 contructor로 하는 방법
-        Hospital hospital = new Hospital(
+        WhyClass2 whyClass2 = new WhyClass2(
                 "B1100027",
                 "서울특별시 강남구 도산대로 118 (논현동 신사빌딩 2층)",
                 "서울특별시 강남구",
@@ -44,5 +53,8 @@ public class WhyClass {
                 "365엠씨의원",
                 null
         );
+
+        // 제네릭이 나온 근본적인 이유 : 꺼낼 때 type casting을 안해도 된다.
+        // 특정 class가 의존하고 있는 interface에도 type에 변화를 줄 수 있게 되었다.
     }
 }

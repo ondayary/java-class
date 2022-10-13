@@ -1,8 +1,4 @@
-package babyLion._221012;
-
-interface Operation {
-    int operation(int a, int b);
-}
+package babyLion.day221012;
 
 public class GugudanParameter {
     public void printGugudan(int dan){
@@ -30,5 +26,4 @@ public void printPlusGugu(int dan) {
         printGugudanTemplate(dan, "*", (a, b) -> a * b);
     }
 */
-
 }

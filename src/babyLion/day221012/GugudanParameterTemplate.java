@@ -1,13 +1,13 @@
-package babyLion._221012;
+package babyLion.day221012;
 
 interface Operation {
     int operation(int a, int b);
 }
 
-public class GugudanParameter {
-    public void printGugudan(int dan){
+public class GugudanParameterTemplate {
+    public void printGugudan(int dan, String operator, Operation operation){
         for(int i = 1; i <= 9; i++){
-            System.out.printf("%d * %d = %d\n", dan, i, dan * i);
+            System.out.printf("%d %s %d = %d\n", dan, operator, operation.operation(dan, i));
         }
     }
     // 다형성
