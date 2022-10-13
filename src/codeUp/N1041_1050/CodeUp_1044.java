@@ -1,0 +1,22 @@
+package codeUp.N1041_1050;
+
+import java.util.Scanner;
+
+public class CodeUp_1044 {
+    // 정수를 1개 입력받아 1만큼 더해 출력해보자.
+    // 단, -2147483648 ~ +2147483647 의 범위로 입력된다.
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+
+        long input = sc.nextInt();
+        System.out.println(input + 1);
+    }
+}
+/*
+++a, --a, a++, a-- 와 같이 어떤 변수의 앞이나 뒤에 붙여
+변수에 저장되어있는 값을 1만큼 더하거나 빼주는 연산자를 증감연산자라고 한다.
+
+증감연산자를 변수 앞에 붙이면 그 변수를 사용하기 전에 증감을 먼저 수행하고,
+증감연산자를 변수 뒤에 붙이면 일단 변수에 저장되어있는 값을 먼저 사용하고 난 후
+나중에 증감을 수행한다.
+*/
