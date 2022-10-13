@@ -1,4 +1,4 @@
-package babyLion.day221012;
+package babyLion.date221012;
 /*
 1. 클래스는 무엇인가?
     Class = 멤버변수(id, address, district ..)에 값을 저장하는 기능 + 동작을 내재화 시키는 기능

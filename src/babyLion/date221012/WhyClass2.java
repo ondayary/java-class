@@ -1,4 +1,4 @@
-package babyLion.day221012;
+package babyLion.date221012;
 
 public class WhyClass2 {
     // Hospital

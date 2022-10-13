@@ -1,4 +1,4 @@
-package babyLion.day221012;
+package babyLion.date221012;
 
 public class Patient {
     // 생성자가 없으면 java가 자동으로 parameter가 없는 생성자를 실행합니다.

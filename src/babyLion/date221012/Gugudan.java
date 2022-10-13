@@ -1,4 +1,4 @@
-package babyLion.day221012;
+package babyLion.date221012;
 /*
 다형성 - 동작이 바뀌거나 return type이 바뀔 때 사용한다.
      - parameter로 Class를 받는다.(callback)
