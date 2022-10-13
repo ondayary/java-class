@@ -1,4 +1,4 @@
-package codeUp._1001_1010;
+package codeUp.N1001_1010;
 
 import java.util.Scanner;
 public class CodeUp_1010 {
