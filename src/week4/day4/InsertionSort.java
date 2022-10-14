@@ -8,12 +8,12 @@ import java.util.Arrays;
 public class InsertionSort {
     public int[] sort(int[] arr) {
         int i = 1;
-        int tmp  = 0;
+        int temp  = 0;
         if(arr[i] < arr[i -1]) { // arr[1] vs arr[0]
             // swap
-            tmp = arr[i];
+            temp = arr[i];
             arr[i]  = arr[i - 1];
-            arr[i - 1] = tmp;
+            arr[i - 1] = temp;
         }
         return arr;
     }
