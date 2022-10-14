@@ -1,6 +1,6 @@
 package week4.day3;
 
-public class SelectionSort01 {
+public class SelectionSort {
     // 선택 정렬 : 현재 위치에 들어갈 데이터를 찾아 선택하는 알고리즘
     public static void main(String[] args) {
 

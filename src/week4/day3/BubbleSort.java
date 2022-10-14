@@ -2,7 +2,7 @@ package week4.day3;
 
 import java.util.Arrays;
 
-public class BubbleSort01 {
+public class BubbleSort {
     // 버블 정렬 : 두 인접한 원소를 검사하여 정렬하는 방법
 
     // 조건1. static method는 main말고는 사용 불가
@@ -22,7 +22,7 @@ public class BubbleSort01 {
     public static void main(String[] args) {
         int[] arr = new int[]{7,2,3,9,28,11};
 
-        BubbleSort01 bs = new BubbleSort01();
+        BubbleSort bs = new BubbleSort();
         int[] result = bs.sort(arr, 0);
 
         // i를 0,1,2,3,4번까지 반복을 해줘야 한다.
