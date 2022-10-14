@@ -14,3 +14,4 @@ public class CodeUp_1038 {
         System.out.printf("%d", first + second);
     }
 }
+
