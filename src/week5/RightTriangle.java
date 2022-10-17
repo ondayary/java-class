@@ -10,14 +10,15 @@ public class RightTriangle {
         }
     }
 
+    public static void main(String[] args) {
+        RightTriangle rightTriangle = new RightTriangle();
+        rightTriangle.Star(5);
+    }
+}
+
     /*
     System.out.println("*");        i = 0 별 1개
     System.out.println("* *");      i = 1 별 2개
     System.out.println("* * *");    i = 2 별 3개
     System.out.println("* * * *");  i = 3 별 4개
     */
-    public static void main(String[] args) {
-        RightTriangle rightTriangle = new RightTriangle();
-        rightTriangle.Star(5);
-    }
-}
